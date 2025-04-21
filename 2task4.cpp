@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     int num;
     cout<<"Hello! I will help you to square your number\n";
-    cout<<"Your number has to be greater than 0.\n"<<endl;
+    cout<<"Your number has to be greater than 0git .\n"<<endl;
 
     //Continuous While loop with break and continue conditions
     while (true){
